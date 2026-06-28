@@ -43,7 +43,7 @@ Want to run this agent yourself? The `workflow.json` file in this repository con
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Razorface1919/Skills-Mastery-Mentor-n8n/tree/main](https://github.com/Razorface1919/Skills-Mastery-Mentor-n8n/tree/main)
+    git clone (https://github.com/Razorface1919/Skills-Mastery-Mentor-n8n/tree/main)
     ```
 2.  **Import the Workflow:**
     *   Open your n8n workspace.
