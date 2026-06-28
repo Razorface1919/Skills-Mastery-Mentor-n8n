@@ -18,7 +18,7 @@ The workflow is elegantly simple, relying on advanced prompt engineering rather 
 *   **The Brain (Gemini 2.5 Flash):** Acts as a rendering and calculation engine. It calculates realistic practice timelines, scales relative CSS percentages for bar charts, and dynamically shifts copywriting tone based on the user's motivation (e.g., framing for "Career" vs. "Hobby").
 *   **The Action (Gmail API):** Receives pure, zero-markdown HTML from Gemini and instantly delivers the natively styled blueprint to the user's inbox.
 
-![Workflow Architecture](assets/Workflow Showcase.png)
+![Workflow Architecture](assets/workflow-architecture.png)
 
 ## 🛠️ Tech Stack & Skills Highlighted
 
