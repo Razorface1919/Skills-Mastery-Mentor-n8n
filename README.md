@@ -2,7 +2,7 @@
 
 A zero-touch, fully automated AI agent that transforms a simple form submission into a highly personalized, magazine-quality skill mastery roadmap in under 30 seconds.
 
-(assets/Email Output.png)
+![Email Output Screenshot](assets/email-output.png)
 
 ## 🚀 Overview
 
